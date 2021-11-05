@@ -1,8 +1,8 @@
 ---
 template: 'index-template'
-title: 'Gatsby Starter Glass'
+title: 'Avneet Singh'
 ---
 
-#Hello World
+#Avneet Singh
 
-A minimal & beautiful gatsby personal blog starter with nice glassmorphism UI.
+A minimal & elegant personal blog to share life and work updates with the world.
