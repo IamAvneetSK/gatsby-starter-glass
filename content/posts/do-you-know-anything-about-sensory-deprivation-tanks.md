@@ -2,7 +2,7 @@
 title: Do you know anything about sensory deprivation tanks?
 date: 2021-02-02
 tags: [stranger things, tv series]
-social_image: '/media/rocket.jpg'
+social_image: '/media/rocket.png'
 description: This is a custom description for SEO and Open Graph purposes. If it's not provided, it defaults to auto-generated excerpts of the page content.
 ---
 
