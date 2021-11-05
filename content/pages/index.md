@@ -1,8 +1,7 @@
 ---
-template: 'index-template'
-title: 'Avneet Singh'
+title: Avneet Singh
+template: index-template
 ---
-
-#Avneet Singh
+### **Hello World**
 
 A minimal & elegant personal blog to share life and work updates with the world.
