@@ -9,4 +9,4 @@ and out of passion, I started creating content at Tech Milestone, The Tech View 
 
 
 
-<button onclick="document.location='https://web.iamavneetsk.cf/images/CV-2021-Nov.pdf'">Resume/CV</button>
+<button onclick="document.location='https://www.linkedin.com/in/iamavneetsk'">LinkedIn</button>
